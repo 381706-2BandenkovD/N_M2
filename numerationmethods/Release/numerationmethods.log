@@ -1,0 +1,19 @@
+﻿  numerationmethods.cpp
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(88,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(96,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(97,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(120,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(124,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(137,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(139,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(148,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(150,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(242,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(279,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(296,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Archi\source\repos\numerationmethods\numerationmethods\numerationmethods.cpp(342,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 257 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  numerationmethods.vcxproj -> C:\Users\Archi\source\repos\numerationmethods\Release\numerationmethods.exe
